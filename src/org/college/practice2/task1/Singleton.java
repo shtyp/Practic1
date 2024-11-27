@@ -19,6 +19,6 @@ public class Singleton {
 
 
     public void displayMessage() {
-        System.out.println("Singleton instance is working!");
+        System.out.println("Примірник Singleton працює!");
     }
 }
